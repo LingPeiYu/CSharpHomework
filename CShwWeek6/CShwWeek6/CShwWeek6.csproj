@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{203AE57C-7C08-4FD5-855C-0D179E439207}</ProjectGuid>
+    <ProjectGuid>{7C1CF1E2-1965-4209-AAD9-34438468A2BB}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CShwWeek5</RootNamespace>
-    <AssemblyName>CShwWeek5</AssemblyName>
+    <RootNamespace>CShwWeek6</RootNamespace>
+    <AssemblyName>CShwWeek6</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

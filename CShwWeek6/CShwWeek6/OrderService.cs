@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Xml.Serialization;
 using System.IO;
 
-namespace CShwWeek5
+namespace CShwWeek7
 {
 
     //实现添加订单、删除订单、修改订单、查询订单（按照订单号、商品名称、客户等字段进行查询)

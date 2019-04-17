@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CShwWeek5
+namespace CShwWeek7
 {
     [Serializable]
     public class OrderDetail
